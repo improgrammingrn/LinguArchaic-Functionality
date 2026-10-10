@@ -1,2 +1,2 @@
-# LinguArchiac-Functionality
-Website about LinguArchiac
+# LinguArchaic-Functionality
+Website about LinguArchaic
